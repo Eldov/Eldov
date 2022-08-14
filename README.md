@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emili</h1>
-<h3 align="center">An aspirant Data Analyst from Brazil</h3>
+<h3 align="center">A Junior Data Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **Studying Google Data Analytics Certificate**
+- 🔭 I’m currently working on **Databricks Apache Spark Certificate**
 
-- 🌱 I’m currently learning **Python, Machine Learning, Relational Databases**
+- 🌱 I’m currently learning **Python, PySpark, **
 
-- 👯 I’m looking to collaborate on **Business Intelligence and Data Analyst roles**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science roles**
 
-- 💬 Ask me about: **VBA, Excel**
+- 💬 Ask me about: **VBA, Excel, SQL and Python**
 
 - 📫 How to reach me: **emili.veig@gmail.com**
 
@@ -27,7 +27,7 @@
 <!---
 - 👋 Hi, I’m Emili but you can call me @Eldov as well
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Python and Relational Databases
+- 🌱 I’m currently learning PySpark and Airflow
 - 💞️ I’m looking to collaborate on Business Analysis and Data Projects
 - 📫 How to reach me: My e-mail is emili.veig@gmail.com
 
