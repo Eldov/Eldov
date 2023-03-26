@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Databricks Apache Spark Certificate**
 
-- 🌱 I’m currently learning **Python, PySpark, **
+- 🌱 I’m currently learning **PySpark, Terraform and Cloud**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science roles**
+- 👯 I’m looking to collaborate on **Data Engineer roles**
 
-- 💬 Ask me about: **VBA, Excel, SQL and Python**
+- 💬 Ask me about: **SQL, Python, Data Engineering**
 
-- 📫 How to reach me: **emili.veig@gmail.com**
+- 📫 How to reach me: **emili.fishwick@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emili-veiga-a0a5aa89/](https://www.linkedin.com/in/emili-veiga-a0a5aa89/)
 
