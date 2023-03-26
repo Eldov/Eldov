@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emili</h1>
-<h3 align="center">A Junior Data Engineer from Brazil</h3>
+<h3 align="center">A Brazilian Data Engineer in the UK</h3>
 
 - 🔭 I’m currently working on **Databricks Apache Spark Certificate**
 
