@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emili</h1>
 <h3 align="center">A Brazilian Data Engineer in the UK</h3>
 
-- 🔭 I’m currently working on **Databricks Apache Spark Certificate**
+- 🔭 I’m currently working on **DevOps Basics**
 
 - 🌱 I’m currently learning **PySpark, Terraform and Cloud**
 
