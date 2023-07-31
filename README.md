@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PySpark, Terraform and Cloud**
 
-- 👯 I’m looking to collaborate on **Data Engineer roles**
+- 👯 I’m looking to collaborate on **DevOps and Data Engineer roles**
 
 - 💬 Ask me about: **SQL, Python, Data Engineering**
 
