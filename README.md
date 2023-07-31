@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **emili.fishwick@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/emili-veiga-a0a5aa89/](https://www.linkedin.com/in/emili-veiga-a0a5aa89/)
+- 📄 Know about my experiences [linkedin.com/in/emili-fishwick-a0a5aa89/](https://www.linkedin.com/in/emili-fishwick-a0a5aa89/)
 
 - ⚡ Fun fact: **an invisible man would be blind**
 
