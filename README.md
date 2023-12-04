@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emili</h1>
-<h3 align="center">A Brazilian Data Engineer in the UK</h3>
+<h3 align="center">A Brazilian DevOps Engineer in the UK</h3>
 
 - 🔭 I’m currently working on **DevOps Basics**
 
 - 🌱 I’m currently learning **PySpark, Terraform and Cloud**
 
-- 👯 I’m looking to collaborate on **DevOps and Data Engineer roles**
+- 👯 I’m looking to collaborate on **DevOps projects**
 
-- 💬 Ask me about: **SQL, Python, Data Engineering**
+- 💬 Ask me about: **SQL, Python, Terraform**
 
 - 📫 How to reach me: **emili.fishwick@gmail.com**
 
