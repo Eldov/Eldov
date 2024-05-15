@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emili</h1>
 <h3 align="center">A Brazilian DevOps Engineer in the UK</h3>
 
-- 🔭 I’m currently working on **DevOps Basics**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **PySpark, Terraform and Cloud**
+- 🌱 I’m currently learning **Jenkins, Terraform and Cloud**
 
 - 👯 I’m looking to collaborate on **DevOps projects**
 
